@@ -1,16 +1,19 @@
 # pre-work-chatbox
 
 print('Hello, and welcom to the chatbox!')
+
 user_name=input('What is your name?)
+
 user_age=input('Nice to meet you {user_name},how old are you?)
+
 print('Great, how can I help you?')
 
 def display_options():
-print(How can I help you?:)
-Print('Return an Item')
-print('Exchange an Item')
-print('Option 3')
-print('Exit chat')
+    print(How can I help you?:)
+    Print('Return an Item')
+    print('Exchange an Item')
+    print('Option 3')
+    print('Exit chat')
 
 def():
     while True:
